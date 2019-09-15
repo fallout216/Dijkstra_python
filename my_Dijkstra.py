@@ -1,4 +1,4 @@
-# given a graph and a source vertex, print a list in the form as a list of node : distance
+# given a graph and a source vertex, print cost to all other vertices with the corresponding shortest paths
 # usage: Dijkstra(graph, the source vertex)
 
 import numpy
